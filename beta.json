@@ -1,9 +1,7 @@
 {
 "ver": "3.0",
 "beta-number": "2",
-"changelog": "multiple locations! 
- UpdateKit option to run every 7 days or  
- everytime",
+"changelog": "multiple locations! UpdateKit option to run every 7 days or everytime",
 "URL": "https://www.icloud.com/shortcuts/5ddb2593446f4bc197b03658204c5036",
 "bugs": "edit location is still in the works",
 "actions": "Test for crashes and bugs",
